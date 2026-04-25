@@ -8,9 +8,7 @@
 | **The Magic System:** Studied at [[04 Lore/Arcane Academies\|Arcane Academies]] | **Era of Ju:** [[04 Lore/Ages/The Age of Ju\|The Age of Ju]]                  |
 | **The Landscape:** Old stone ruins and meadows        | **Era of Shien:** [[04 Lore/Ages/The Age of Shien\|The Age of Shien]]            |
 | **The Atmosphere:** Focus on the journey              | **The Current Peace:** [[04 Lore/Ages/The Era of Coexistence\|The Era of Coexistence]] |
-|                                                       |                                                   |
-|                                                       |                                                   |
-|                                                       |                                                   |
+
 
 | 🏰 The Six Kingdoms       | 👥 Major Races |
 | ------------------------- | -------------- |

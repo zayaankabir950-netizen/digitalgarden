@@ -4,7 +4,9 @@
 
 > [!multi-column]
 > 
-> > [!abstract] 🌍 The World at a Glance **Atmosphere:** High Fantasy. Vast landscapes, ancient stone architecture, and a focus on the journey. **The "State":** A world of exploration. Magic is studied in academies, and the various races—Humans, Elves, and Dwarves—intermingle in large, bustling cities.
+> > [!abstract] 🌍 The World at a Glance
+> >  **Atmosphere:** High Fantasy. Vast landscapes, ancient stone architecture, and a focus on the journey.
+> >   **The "State":** A world of exploration. Magic is studied in academies, and the various races—Humans, Elves, and Dwarves—intermingle in large, bustling cities.
 > 
 > > [!map] 📍 Navigation Hub
 > > 
@@ -24,8 +26,6 @@
 ### ⚙️ How the World Works
 
 - **Magic:** Magic is a fundamental part of the world. It is used for everything from high-level combat to simple household chores. Most people have at least a basic understanding of how mana works.
-    
-- **Technology:** Medieval Fantasy. No industrial machinery; the world relies on master-crafted tools, horse-drawn carriages, and magical assistance for long-distance communication.
     
 - **The Races:** Diverse and integrated. It is normal to see an Astral Dwarf, a High Elf, and a Dragonborn sharing a meal in any major city tavern.
     

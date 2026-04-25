@@ -25,7 +25,7 @@
     
 - **S (Somatic):** You must have at least one hand free to gesture.
     
-- **M (Material):** You need a Component Pouch or a **Spellcasting Focus** (like MuriSaline's Staff).
+- **M (Material):** You need a Component Pouch or a **Spellcasting Focus** (like a staff).
     
 - **Concentration:** You can only concentrate on **one** spell at a time. If you take damage, roll a **Constitution Save** (DC 10 or half the damage taken, whichever is higher) to keep the spell going.
     
@@ -35,5 +35,3 @@
 - **Spell Attack:** `1d20 + Ability Mod + Proficiency`
     
 - **Spell Save DC:** `8 + Ability Mod + Proficiency`
-    
-    - _Example: El-Farban (Wizard) uses Intelligence. MuriSaline (Sorcerer) uses Charisma._
