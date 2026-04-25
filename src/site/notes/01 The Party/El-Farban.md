@@ -12,7 +12,7 @@
 > >     
 > > - **AC:** 10 | **Speed:** 25ft
 > >     
-> > - **HP:** 9 / 9
+> > - **HP:** 11 / 11
 > >     
 > 
 > > [!zap] ☄️ Source
@@ -26,8 +26,6 @@
 
 **Backstory & Personality**
 
-- **Goal:** To find a shiny rock.
+- **Goal:** To find a shiny rock
     
-- **Bond:** Carries a piece of starmetal that hums when near danger.
-    
-- **Current Status:** Moving with the Squad.
+- **Trait:** Chonky

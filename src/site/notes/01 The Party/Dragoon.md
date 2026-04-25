@@ -29,5 +29,3 @@
 - **Goal:** To be the richest person in the world.
     
 - **Flaw:** Can’t resist the shine of gold, even in a trap.
-    
-- **Current Status:** Looking for a way out of the whispering mists.
