@@ -2,39 +2,19 @@
 {"dg-publish":true,"permalink":"/01-the-party/abilities/el-farban-abilities/","dg-note-properties":{}}
 ---
 
-> [!multi-column]
-> 
-> > [!zap] ☄️ Sorcery
-> > 
-> > - **Spell Save DC:** 11
-> >     
-> > - **Sorcery Points:** 4 / 4
-> >     
-> 
-> > [!warning] 🛡️ Dwarf
-> > 
-> > - **Astral Know.:** Change skill/weapon on Long Rest.
-> >     
-> > - **Resilience:** Adv vs Poison.
-> >     
+More spells will accumulate through the understanding of users bloodline
+#### Cantrips
 
-**Cantrips (At-Will):**
+can be used at will.
 
-- **Fire Bolt:** Ranged attack. 1d10 Fire damage. Can ignite flammable objects.
-    
-- **Prestidigitation:** Perform minor sensory effects (cleaning, flavoring food, sparks).
-    
-- **Mind Sliver:** Target makes Int Save. 1d6 Psychic + subtract 1d4 from their next save.
-    
-- **Dancing Lights:** Create four torch-sized lights that move at your command.
-    
-- **Blade Ward:** Resistance against physical damage until the end of your next turn.
-    
+- **Shocking Grasp:** 1d8 lightning damage. It stuns the enemy's reaction so they cannot counterattack or attack you if you run away.
+- **Acid Splash:** 1d6 acid damage. This can hit 2 enemies at once if they are standing right next to each other.
+- **Light:** Makes any item or weapon glow like a flashlight to light up dark rooms.
 
-**Level 1 Spells:**
+#### Unlocked spells
 
-- **Magic Missile:** 3 darts, 1d4+1 each. They never miss.
-    
-- **Shield:** Reaction. +5 AC until your next turn.
-    
-- **Thunder-wave:** 15ft cube. 2d8 Thunder damage + push back 10ft.
+Unlocked/Learnt spells. Take 1 mana slot by base.
+
+- **Chaos Bolt:** 2d8 + 1d6 damage. If you roll the same number on the d8 dice, the spell automatically bounces and hits a second enemy.
+- **Thunderwave:** 2d8 thunder damage. It hits all nearby enemies in front of you and blasts them back 10 feet.
+- **False Life:** Gives you +5 extra shield health so you can take a hit without losing your real HP.

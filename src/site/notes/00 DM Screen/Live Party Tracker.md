@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/00-dm-screen/live-party-tracker/","dg-note-properties":{}}
 ---
 
-| **Character** | **HP (Current/Max)** | **AC** | **PP** | **Primary Weapon** | Gold |
-| ------------- | -------------------- | ------ | ------ | ------------------ | ---- |
-| [[01 The Party/The Members/Rochat\|Rochat]]    | 11 / 12              | 10     | 12     | Rusty Dagger       | 5    |
-| [[01 The Party/The Members/El-Farban\|El-Farban]] | 4/ 11                | 12     | 13     | Quarterstaff       | 5    |
-| [[01 The Party/The Members/Duskhar\|Duskhar]]   | 4 / 8                | 10     | 11     | Quarterstaff       | 5    |
 
-
+| Character         | AC  | HP (Current/Max) | Resource Pool | Primary Weapon | Gold |
+| :---------------- | :-- | :--------------- | :------------ | :------------- | :--- |
+| **[[01 The Party/The Members/Dragoon\|Dragoon]]**   | 10  | 12 / 12          | 2 / 2 Stamina | Rusty Dagger   | 5    |
+| **[[01 The Party/The Members/El-Farban\|El-Farban]]** | 12  | 11 / 11          | 2 / 2 Mana    | Quarterstaff   | 5    |
+| **[[01 The Party/The Members/Duskhar\|Duskhar]]**   | 10  | 8 / 8            | 2 / 2 Mana    | Student's Tome | 5    |
