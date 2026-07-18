@@ -34,3 +34,7 @@ Combat is turn-based.
 ## Criticals
 - Nat 20 = Critical Hit.
 - Nat 1 = Critical Miss.
+
+for other rules 
+- [[00 DM Screen/Rules/Spellcasting Rules\|Spellcasting Rules]]
+- [[00 DM Screen/Rules/Resting Mechanics\|Resting Mechanics]]
