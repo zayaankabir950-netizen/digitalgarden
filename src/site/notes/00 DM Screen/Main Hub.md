@@ -9,9 +9,9 @@
  DnD guy
  
 ### 📍 Quick Links
-- [[00 DM Screen/Live Party Tracker\|Party Tracker]]
+- [[00 DM Screen/Party stats\|Party Tracker]]
 - [[00 DM Screen/Rules/Combat & Rules\|Rules ]]
-- [[02 Sessions/Session-1\|Campaign Log]]
-- [[04 Lore/Lore Archive\|Lore Archive]]
-
-   
+- [[02 Sessions/Campaign Log\|Campaign Log]]
+- [[04 Lore/Ages/The Age of Ju\|The Age of Ju]]
+- [[04 Lore/Ages/The Age of Shien\|The Age of Shien]]
+- [[04 Lore/Ages/The Era of Coexistence\|The Era of Coexistence]]

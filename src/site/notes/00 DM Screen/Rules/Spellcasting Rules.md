@@ -3,17 +3,21 @@
 ---
 
 
+# Spellcasting
 
-> [!info] ✨ The Golden Rule If you cast a spell as a **Bonus Action**, you cannot cast another spell during the same turn, except for a **Cantrip** with a casting time of 1 action.
+Spells are magical abilities that use **Spell Slots**.
 
----
+## Casting Spells
+- Most spells use an **Action**, though some use a **Bonus Action** or **Reaction**.
+- You must have a Spell Slot of the spell's level or higher to cast it.
+- Some spells become stronger when cast with a higher-level Spell Slot.
 
-#### 🕒 Casting Times
+## Spell Slots
+- Casting a spell uses one Spell Slot.
+- Once all your Spell Slots are gone, you can't cast more spells until you recover them.
+- Most Spell Slots return after a **Long Rest**.
 
-- **1 Action:** The standard "main" part of your turn.
-    
-- **1 Bonus Action:** A quick spell (like _Healing Word_ or _Misty Step_).
-    
-- **Reaction:** Used in response to an event (like _Shield_ or _Counterspell_).
-    
-- **Ritual:** Takes **10 minutes longer** than usual but doesn't cost a spell slot.
+## Concentration
+- Some spells stay active as long as you **Concentrate** on them.
+- You can only concentrate on **one spell at a time**.
+- Taking heavy damage or casting another Concentration spell can end the first one.

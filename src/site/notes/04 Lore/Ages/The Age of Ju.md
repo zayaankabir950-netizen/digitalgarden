@@ -3,32 +3,27 @@
 ---
 
 > [!abstract] 🏜️ Era Summary
->  **State:** The Primal Barren.
->   **Key Figures:** The First Tieifen (Godlike Beings).
->    **The Catalyst:** The Shattering of the Mirror.
+> **State:** The Primal Barren
+> **Key Figures:** The First Tieifen
+> **The Catalyst:** The Shattering of the Mirror
 
 ---
 
-### 📜 The Chronicles of Ju
+## The Great Sterility
 
-#### 1. The Endless Desert
+- The world was once a lifeless desert with no magic, water, or life.
 
-Before the kingdoms and the forests, the world was a silent, shifting sea of white sand. There was no magic, no water, and no life. History refers to this as the **Great Sterility**.
+## The Tieifen
 
-#### 2. The Descent of the Tieifen
+- The Tieifen descended and shaped the world, creating rivers, mountains, and the foundations of civilization.
 
-The Tieifen—beings of immense power and unknown origin—descended into the barren wastes. With a single collective will, they "cleaned" the world. They swept away the dust, carved the riverbeds, and laid the foundations of the mountains.
+## The Mirror of Origin
 
-#### 3. The Mirror of Origin
+- Before disappearing, the Tieifen left behind the **Mirror**, an artifact that reflected the world's potential.
 
-Before the Tieifen vanished, they left behind a single artifact: **The Mirror**. It was a perfect, silent surface that reflected the potential of the world.
+## The Shattering
 
-#### 4. The Shattering
-
-For reasons lost to time, the Mirror shattered. It did not break into glass, but into souls.
-
-- **The Large Shards:** Became the **[[04 Lore/Races/High Elves\|High Elves]]** and **[[04 Lore/Races/Dwarves\|Dwarves]]/[[04 Lore/Races/Astral Dwarves\|Astral Dwarves]]**, inheriting the Mirror's longevity.
-    
-- **The Multitude of Shards:** Became **[[04 Lore/Races/Humans\|Humans]]**, **[[04 Lore/Races/Halflings\|Halflings]]**, and **[[04 Lore/Races/Gnomes\|Gnomes]]**, inheriting the Mirror's adaptability.
-    
-- **The Sharp Shards:** Became the **[[04 Lore/Races/Dragonborn\|Dragonborn]]**, inheriting the Mirror's strength.
+- The Mirror shattered into souls, giving rise to the races of the world.
+- **Large Shards:** [[04 Lore/Races/High Elves\|High Elves]], [[04 Lore/Races/Dwarves\|Dwarves]], [[04 Lore/Races/Astral Dwarves\|Astral Dwarves]]
+- **Multitude of Shards:** [[04 Lore/Races/Humans\|Humans]], [[04 Lore/Races/Halflings\|Halflings]], [[04 Lore/Races/Gnomes\|Gnomes]]
+- **Sharp Shards:** [[04 Lore/Races/Dragonborn\|Dragonborn]]
