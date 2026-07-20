@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/00-dm-screen/rules/combat-and-rules/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
-dg-home: false
----
 
 # Combat
 
