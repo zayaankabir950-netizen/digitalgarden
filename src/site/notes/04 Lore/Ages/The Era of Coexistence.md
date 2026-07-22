@@ -4,7 +4,6 @@
 
 > [!info] 🍃 Era Summary
 > **Current State:** A time of expansion and uneasy peace.
-> **The New Power:** The rise of [[03 Location/Kingdoms/Kingdom of Thorne\|Kingdom of Thorne]] and [[03 Location/Kingdoms/Kingdom of Solaris\|Kingdom of Solaris]].
 > **The Friction:** Old kingdoms distrust the new powers while racial tensions remain.
 
 ---
@@ -14,7 +13,7 @@
 ## The New Two
 
 - The **Legacy Four** (Aethelgard, Oros, Valerius, Nyxos) were built during the crystal trade era.
-- [[03 Location/Kingdoms/Kingdom of Thorne\|Kingdom of Thorne]] and [[03 Location/Kingdoms/Kingdom of Solaris\|Kingdom of Solaris]] emerged as the newest kingdoms, claiming the remaining frontier.
+- Kingdom of Thorne and Kingdom of Solaris emerged as the newest kingdoms, claiming the remaining frontier.
 
 ## Integrated Cities
 

@@ -24,6 +24,6 @@
 ## The Shattering
 
 - The Mirror shattered into souls, giving rise to the races of the world.
-- **Large Shards:** [[04 Lore/Races/High Elves\|High Elves]], [[04 Lore/Races/Dwarves\|Dwarves]], [[04 Lore/Races/Astral Dwarves\|Astral Dwarves]]
-- **Multitude of Shards:** [[04 Lore/Races/Humans\|Humans]], [[04 Lore/Races/Halflings\|Halflings]], [[04 Lore/Races/Gnomes\|Gnomes]]
-- **Sharp Shards:** [[04 Lore/Races/Dragonborn\|Dragonborn]]
+- **Large Shards:** High Elves, Dwarves, Astral Dwarves
+- **Multitude of Shards:** Humans, Halflings, Gnomes
+- **Sharp Shards:** Dragonborn

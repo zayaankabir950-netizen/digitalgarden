@@ -17,10 +17,10 @@
 ## The Merchant Empires
 
 - Four trade families became kingdoms through their control of mana-crystals.
-- [[03 Location/Kingdoms/Kingdom of Aethelgard\|Kingdom of Aethelgard]]: Industrialized crystal processing.
-- [[03 Location/Kingdoms/Kingdom of Oros\|Kingdom of Oros]]: Controlled crystal transportation.
-- [[03 Location/Kingdoms/Kingdom of Valerius\|Kingdom of Valerius]]: Provided security and mercenaries.
-- [[03 Location/Kingdoms/Kingdom of Nyxos\|Kingdom of Nyxos]]: Financed crystal operations.
+- Kingdom of Aethelgard: Industrialized crystal processing.
+- Kingdom of Oros: Controlled crystal transportation.
+- Kingdom of Valerius: Provided security and mercenaries.
+- Kingdom of Nyxos: Financed crystal operations.
 
 ## The "Shard" Labor
 
@@ -32,4 +32,3 @@
 
 - Mana-powered inventions like the **Mana-Rail** and **Steam-Loom** were created.
 - The era is remembered for advancement, but its true cost is often hidden.
----

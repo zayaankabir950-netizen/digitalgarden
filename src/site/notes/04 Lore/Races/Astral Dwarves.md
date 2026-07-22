@@ -11,4 +11,4 @@
 
 ---
 
-**Parent Race:** [[04 Lore/Races/Dwarves\|Dwarves]]
+**Parent Race:** Dwarves
